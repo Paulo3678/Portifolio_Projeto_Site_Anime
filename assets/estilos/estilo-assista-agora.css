@@ -1,0 +1,11 @@
+#assista-agora h2::before{
+    content: '';    
+    border-left: 3px solid #17A2B8;
+    margin-right: 8px;
+}
+
+#top-views h2::before{
+    content: '';    
+    border-left: 3px solid #17A2B8;
+    margin-right: 8px;
+}
